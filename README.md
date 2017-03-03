@@ -1,7 +1,6 @@
 # LeetCode
 My solutions to LeetCode
 
----------
 
 + Author: MoRunChang, SYSU
 
