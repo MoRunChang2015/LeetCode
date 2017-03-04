@@ -16,3 +16,5 @@ Problem id|Problem name|Language|Rank(beats x% other submissions)
 476|Number Complement|C++|33.73%
 500|Keyboard Row|C++|2.65%
 412|Fizz Buzz|C++|48.96%
+496|Next Greater Element I|C++|69.76%
+344|Reverse String|C++|33.12%
