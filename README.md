@@ -18,3 +18,6 @@ Problem id|Problem name|Language|Rank(beats x% other submissions)
 412|Fizz Buzz|C++|48.96%
 496|Next Greater Element I|C++|69.76%
 344|Reverse String|C++|33.12%
+463|Island Perimeter|C++|80.12%
+485|Max Consecutive Ones|C++|41.89%
+292|Nim Game|C++|1.24%
