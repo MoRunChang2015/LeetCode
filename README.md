@@ -21,3 +21,4 @@ Problem id|Problem name|Language|Rank(beats x% other submissions)
 463|Island Perimeter|C++|80.12%
 485|Max Consecutive Ones|C++|41.89%
 292|Nim Game|C++|1.24%
+513|Find Bottom Left Tree Value|C++|30.67%
