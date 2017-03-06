@@ -22,3 +22,8 @@ Problem id|Problem name|Language|Rank(beats x% other submissions)
 485|Max Consecutive Ones|C++|41.89%
 292|Nim Game|C++|1.24%
 513|Find Bottom Left Tree Value|C++|30.67%
+406|Queue Reconstruction by Height|C++|53.54%
+413|Arithmetic Slices|C++|16.67%
+520|Detect Capital|C++|22.63%
+136|Single Number|C++|92.12%
+
