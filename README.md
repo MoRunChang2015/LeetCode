@@ -26,4 +26,10 @@ Problem id|Problem name|Language|Rank(beats x% other submissions)
 413|Arithmetic Slices|C++|16.67%
 520|Detect Capital|C++|22.63%
 136|Single Number|C++|92.12%
+448|Find All Numbers Disappeared in an Array|C++|85.97%
+442|Find All Duplicates in an Array|C++|67.65%
+515|Find Largest Value in Each Tree Row|C++|62.43%
+495|Teemo Attacking|C++|77.39%
+508|Most Frequent Subtree Sum|C++|98.65%
+
 
