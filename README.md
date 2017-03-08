@@ -31,5 +31,8 @@ Problem id|Problem name|Language|Rank(beats x% other submissions)
 515|Find Largest Value in Each Tree Row|C++|62.43%
 495|Teemo Attacking|C++|77.39%
 508|Most Frequent Subtree Sum|C++|98.65%
+419|Battleships in a Board|C++|29.03%
+338|Counting Bits|C++|66.26%
+104|Maximum Depth of Binary Tree|C++|38.45%
 
 
