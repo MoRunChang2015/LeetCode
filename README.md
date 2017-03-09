@@ -34,5 +34,10 @@ Problem id|Problem name|Language|Rank(beats x% other submissions)
 419|Battleships in a Board|C++|29.03%
 338|Counting Bits|C++|66.26%
 104|Maximum Depth of Binary Tree|C++|38.45%
+371|Sum of Two Integers|C++|37.35%
+389|Find the Difference|68.75%
+258|Add Digits|C++|15.94%
+226|Invert Binary Tree|C++|3.26%
+
 
 
