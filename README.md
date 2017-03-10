@@ -38,6 +38,8 @@ Problem id|Problem name|Language|Rank(beats x% other submissions)
 389|Find the Difference|68.75%
 258|Add Digits|C++|15.94%
 226|Invert Binary Tree|C++|3.26%
+167|Two Sum II - Input array is sorted|C++|10.92%
+530|Minimum Absolute Difference in BST|77.19%
 
 
 
