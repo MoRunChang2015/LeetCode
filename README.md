@@ -42,6 +42,8 @@ Problem id|Problem name|Language|Rank(beats x% other submissions)
 530|Minimum Absolute Difference in BST|C++|77.19%
 451|Sort Characters By Frequency|C++|59.63%
 506|Relative Ranks|C++|84.90%
+492|Construct the Rectangle|C++|37.15%
+283|Move Zeroes|C++|48.38%
 
 
 
