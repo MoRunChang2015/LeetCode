@@ -44,6 +44,8 @@ Problem id|Problem name|Language|Rank(beats x% other submissions)
 506|Relative Ranks|C++|84.90%
 492|Construct the Rectangle|C++|37.15%
 283|Move Zeroes|C++|48.38%
-
+455|Assign Cookies|C++|54.53%
+453|Minimum Moves to Equal Array Elements|C++|60.87%
+383|Ransom Note|C++|45.70%
 
 
