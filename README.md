@@ -47,5 +47,9 @@ Problem id|Problem name|Language|Rank(beats x% other submissions)
 455|Assign Cookies|C++|54.53%
 453|Minimum Moves to Equal Array Elements|C++|60.87%
 383|Ransom Note|C++|45.70%
+404|Sum of Left Leaves|C++|71.10%
+349|Intersection of Two Arrays|C++|58.20%
+504|Base 7|C++|50.96% 
+
 
 
