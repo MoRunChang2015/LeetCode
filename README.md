@@ -50,6 +50,8 @@ Problem id|Problem name|Language|Rank(beats x% other submissions)
 404|Sum of Left Leaves|C++|71.10%
 349|Intersection of Two Arrays|C++|58.20%
 504|Base 7|C++|50.96% 
+122|Best Time to Buy and Sell Stock II|C++|39.51%
+387|First Unique Character in a String|C++|40.30%
 
 
 
