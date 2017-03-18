@@ -52,6 +52,10 @@ Problem id|Problem name|Language|Rank(beats x% other submissions)
 504|Base 7|C++|50.96% 
 122|Best Time to Buy and Sell Stock II|C++|39.51%
 387|First Unique Character in a String|C++|40.30%
+171|Excel Sheet Column Number|C++|17.14%
+237|Delete Node in a Linked List|C++|41.39%
+100|Same Tree|C++|74.14%
+
 
 
 
