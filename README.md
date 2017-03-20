@@ -55,6 +55,11 @@ Problem id|Problem name|Language|Rank(beats x% other submissions)
 171|Excel Sheet Column Number|C++|17.14%
 237|Delete Node in a Linked List|C++|41.39%
 100|Same Tree|C++|74.14%
+242|Valid Anagram|C++|45.13%
+169|Majority Element|C++|94.65%
+409|Longest Palindrome|C++|84.34%
+217|Contains Duplicate|C++|69.17%
+
 
 
 
