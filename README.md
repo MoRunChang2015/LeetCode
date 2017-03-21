@@ -59,6 +59,8 @@ Problem id|Problem name|Language|Rank(beats x% other submissions)
 169|Majority Element|C++|94.65%
 409|Longest Palindrome|C++|84.34%
 217|Contains Duplicate|C++|69.17%
+206|Reverse Linked List|C++|23.29%
+350|Intersection of Two Arrays II|C++|23.29%
 
 
 
