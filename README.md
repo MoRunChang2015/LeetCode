@@ -62,6 +62,9 @@ Problem id|Problem name|Language|Rank(beats x% other submissions)
 206|Reverse Linked List|C++|23.29%
 350|Intersection of Two Arrays II|C++|23.29%
 13|Roman to Integer|C++|41.14%
+401|Binary Watch|C++|5.85%
+541|Reverse String II|C++|None
+268|Missing Number|C++|45.84%
 
 
 
