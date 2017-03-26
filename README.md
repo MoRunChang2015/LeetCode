@@ -65,6 +65,7 @@ Problem id|Problem name|Language|Rank(beats x% other submissions)
 401|Binary Watch|C++|5.85%
 541|Reverse String II|C++|None
 268|Missing Number|C++|45.84%
+70|Climbing Stairs|C++|1.38%
 
 
 
