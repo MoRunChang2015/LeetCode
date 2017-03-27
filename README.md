@@ -66,6 +66,7 @@ Problem id|Problem name|Language|Rank(beats x% other submissions)
 541|Reverse String II|C++|None
 268|Missing Number|C++|45.84%
 70|Climbing Stairs|C++|1.38%
+83|Remove Duplicates from Sorted List|C++|56.86%
 
 
 
