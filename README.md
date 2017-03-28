@@ -67,6 +67,7 @@ Problem id|Problem name|Language|Rank(beats x% other submissions)
 268|Missing Number|C++|45.84%
 70|Climbing Stairs|C++|1.38%
 83|Remove Duplicates from Sorted List|C++|56.86%
+53|Maximum Subarray|C++|57.56%
 
 
 
