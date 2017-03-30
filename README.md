@@ -69,6 +69,8 @@ Problem id|Problem name|Language|Rank(beats x% other submissions)
 83|Remove Duplicates from Sorted List|C++|56.86%
 53|Maximum Subarray|C++|57.56%
 415|Add Strings|C++|36.04%
+66|Plus One|C++|20.24%
+257|Binary Tree Paths|C++|33.42%
 
 
 
