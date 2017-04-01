@@ -73,6 +73,7 @@ Problem id|Problem name|Language|Rank(beats x% other submissions)
 257|Binary Tree Paths|C++|33.42%
 191|Number of 1 Bits|C++|36.18%
 342|Power of Four|C++|39.67%
+367|Valid Perfect Square|C++|50.79%
 
 
 
