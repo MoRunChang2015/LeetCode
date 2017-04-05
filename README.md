@@ -74,6 +74,7 @@ Problem id|Problem name|Language|Rank(beats x% other submissions)
 191|Number of 1 Bits|C++|36.18%
 342|Power of Four|C++|39.67%
 367|Valid Perfect Square|C++|50.79%
+9|Palindrome Number|C++|34.02%
 
 
 
