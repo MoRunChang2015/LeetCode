@@ -75,6 +75,9 @@ Problem id|Problem name|Language|Rank(beats x% other submissions)
 342|Power of Four|C++|39.67%
 367|Valid Perfect Square|C++|50.79%
 9|Palindrome Number|C++|34.02%
+557|Reverse Words in a String III|C++|None
+521|Longest Uncommon Subsequence I|C++|None
+
 
 
 
